@@ -49,7 +49,7 @@ html{
 .here {
   padding: 100px 0;
   max-width: 1440px;
-  background: url(../images/robot.png) 100% 50% no-repeat;
+  background: url(./images/robot.png) 100% 50% no-repeat;
 }
 
 .here-container {
@@ -207,7 +207,7 @@ html{
   padding: 100px 0;
    margin: 0 auto;
   max-width: 1440px;
-  background: url(../images/robot.png) 10% 50% no-repeat;
+  background: url(./images/robot.png) 10% 50% no-repeat;
 }
 
 .cta-container{
